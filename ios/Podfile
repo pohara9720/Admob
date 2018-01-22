@@ -1,0 +1,2 @@
+target ‘pantry’
+pod 'Google-Mobile-Ads-SDK'
